@@ -1,0 +1,18 @@
+header {
+    text-align: center;
+    background-color: blue;
+    padding: 2px;
+    color: white;
+}
+
+main {
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+}
+
+input {
+    margin-bottom: 5px;
+}
+button {
+    display: block;
+}
