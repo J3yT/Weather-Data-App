@@ -16,3 +16,14 @@ input {
 button {
     display: block;
 }
+
+.cards {
+    display: flex;
+
+}
+
+.current {
+    border: 1px solid black;
+    padding: 5px;
+    margin: 16px;
+}

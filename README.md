@@ -2,13 +2,13 @@
 
 ## Description
 
-Weather-Data-App is a forecast application that allows the user to see weather for different cities at different times. During the building of the application i gained further knowledge in local storage and pulling data from a server data base. 
+Weather-Data-App is a forecast application that allows the user to see weather for different cities at different times. During the building of the application i gained further knowledge in local storage and pulling data from a api. 
 
 ## Usage
+Screenshot of deployed webpage
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+![alt text](./assets/images/Screenshot%202023-04-17%20230237.png)
+  
 
 ## Credits
 
